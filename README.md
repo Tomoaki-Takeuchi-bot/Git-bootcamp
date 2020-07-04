@@ -6,7 +6,7 @@
 
 ---
 
-# Git Cheatsheet
+# **_Git Cheatsheet_**
 
 ---
 
