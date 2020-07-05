@@ -3,7 +3,7 @@
 - 個人で Git・GitHub・擬似チーム開発練習を行うために作成したレポジトリです。
 - 初期 Set ファイル数 20,ブランチ 20, master ブランチのみ html ファイルに記載あり
 
-![Uploading スクリーンショット 2020-07-05 23.43.56.png…]()
+<img width="1680" alt="スクリーンショット 2020-07-05 23 43 56" src="https://user-images.githubusercontent.com/61924934/86535287-3fe13480-bf1a-11ea-8f48-c78ac8c30c57.png">
 
 ---
 
